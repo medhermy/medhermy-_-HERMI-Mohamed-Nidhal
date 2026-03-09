@@ -2,3 +2,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5EF736&width=435&lines=Data+Analyst+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A58F7&width=435&lines=Linkedin+%3A+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmedhermy%2F)](https://git.io/typing-svg)
 <a href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/98fc67b6b626a019282fa01b379c5fc36a71a51050d4f464627fa10f34a5b611/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d56543332332673697a653d343026636f6c6f723d3030463733372663656e7465723d74727565267643656e7465723d747275652677696474683d31303030266c696e65733d536f6369616c5f4163636f756e7473" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=VT323&amp;size=40&amp;color=00F737&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Social_Accounts" style="max-width: 100%;"></a>
+
+<p align="center" dir="auto">
+    <a href="https://www.linkedin.com/in/medhermy/" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/1587a44d47778d8f355885f5eb6c0508ab4ca67202cd0ba3a908f0601b5ae190/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333144413146322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+    </a>
+    <a href="https://www.facebook.com/z1mota/" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/05eae362e94518b850b4024ee9ec5b57ec203e5bb0b0b8380e0c9ff6e56cba3e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66616365626f6f6b2d3432363742322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;">
+    </a>
+    <a href="mailto:medhermy@gmail.com">
+      <img src="https://camo.githubusercontent.com/e0b4ac8a1ca2011b022741b98df12fc5c9ef0e63cc0b7b1bba992269c77a4e4c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d4541343333352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+    </a>
+  </p>
