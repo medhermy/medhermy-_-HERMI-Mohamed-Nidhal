@@ -6,8 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=1A58F7&background=E7FF93&center=true&width=435&lines=%7C+PL-300+Certified)](https://git.io/typing-svg)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=460C0C&background=FCFEFF&width=435&lines=Passionate+about+transforming+data;into%2C)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=460C0C&background=FCFEFF&width=435&lines=actionable+insights+through+dashboards%2C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=460C0C&background=FCFEFF&width=435&lines=Passionate+about+transforming+data%2C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=460C0C&background=FCFEFF&width=435&lines=into+actionable+insights+through%2C)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=460C0C&background=FCFEFF&width=435&lines=dashboards%2C+data+visualization%2C+and+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=460C0C&background=FCFEFF&width=435&lines=analytics.)](https://git.io/typing-svg)
 
