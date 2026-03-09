@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A58F7&width=435&lines=HERMI+Mohamed+Nidhal)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5EF736&width=435&lines=Data+Analyst+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=1A58F7&width=435&lines=Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python+%7C+PL-300+Certified)](https://git.io/typing-svg)
 
 
 <p align="center" dir="auto">
