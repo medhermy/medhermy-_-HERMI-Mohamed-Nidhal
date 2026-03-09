@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A58F7&width=435&lines=HERMI+Mohamed+Nidhal)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=1A58F7&background=E7FF93&center=true&width=435&lines=Data+Analyst+)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=1A58F7&width=435&lines=%7C+Power+BI)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=1A58F7&width=435&lines=%7C+SQL+)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=1A58F7&width=435&lines=%7C+Python)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=1A58F7&width=435&lines=%7C+PL-300+Certified)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=1A58F7&background=E7FF93&center=true&width=435&lines=%7C+Power+BI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=1A58F7&background=E7FF93&center=true&width=435&lines=%7C+SQL+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=1A58F7&background=E7FF93&center=true&width=435&lines=%7C+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=1A58F7&background=E7FF93&center=true&width=435&lines=%7C+PL-300+Certified)](https://git.io/typing-svg)
 <p align="center" dir="auto">
     <a href="https://www.linkedin.com/in/medhermy/" rel="nofollow">
       <img src="https://camo.githubusercontent.com/1587a44d47778d8f355885f5eb6c0508ab4ca67202cd0ba3a908f0601b5ae190/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333144413146322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
