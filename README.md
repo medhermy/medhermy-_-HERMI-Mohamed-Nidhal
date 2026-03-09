@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A58F7&width=435&lines=HERMI+Mohamed+Nidhal)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5EF736&width=435&lines=Data+Analyst+)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A58F7&width=435&lines=Linkedin+%3A+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmedhermy%2F)](https://git.io/typing-svg)
+
 
 <p align="center" dir="auto">
     <a href="https://www.linkedin.com/in/medhermy/" rel="nofollow">
@@ -14,16 +14,6 @@
     </a>
   </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=medhermy&layout=compact&langs_count=8&theme=gotham&hide_border=true&count_private=true" 
-    width="48%" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=medhermy&show_icons=true&theme=gotham&hide_border=true&count_private=true" 
-    width="48%" 
-  />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=medhermy&theme=gotham&hide_border=true" width="60%">
