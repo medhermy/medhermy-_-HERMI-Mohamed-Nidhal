@@ -7,7 +7,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=460C0C&background=FCFEFF&width=435&lines=Passionate+about+transforming+data)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=460C0C&background=FCFEFF&width=435&lines=into+actionable+insights+through%2C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=460C0C&background=FCFEFF&width=435&lines=into+actionable+insights+through)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=460C0C&background=FCFEFF&width=435&lines=dashboards%2C+data+visualization%2C+and+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=460C0C&background=FCFEFF&width=435&lines=analytics.)](https://git.io/typing-svg)
 
