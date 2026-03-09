@@ -5,7 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=1A58F7&background=E7FF93&center=true&width=435&lines=%7C+Python)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=1A58F7&background=E7FF93&center=true&width=435&lines=%7C+PL-300+Certified)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=460C0C&background=FCFEFF&center=true&multiline=true&width=435&lines=Passionate+about+transforming+data+;into+actionable+insights+through+dashboards%2C;data+visualization%2C+and+analytics.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=460C0C&background=FCFEFF&center=true&width=435&lines=Passionate+about+transforming+data+;into+actionable+insights+through+dashboards%2C;data+visualization%2C+and+analytics.)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=460C0C&background=FCFEFF&center=true&width=435&lines=Passionate+about+transforming+data+;into+actionable+insights+through+dashboards%2C;data+visualization%2C+and+analytics." alt="Typing SVG" /></a>
 
 <p align="center" dir="auto">
     <a href="https://www.linkedin.com/in/medhermy/" rel="nofollow">
