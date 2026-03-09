@@ -1,30 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A58F7&width=435&lines=HERMI+Mohamed+Nidhal)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5EF736&width=435&lines=Data+Analyst+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A58F7&width=435&lines=Linkedin+%3A+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmedhermy%2F)](https://git.io/typing-svg)
-
-@@ -62,18 +62,23 @@
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=KvRae&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
-    src="https://github-readme-stats-fast.vercel.app/api?username=KvRae&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
-    width="49%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=KvRae&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=KvRae&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
-    width="49%"
-  />
-  
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KvRae&&layout=compact&langs_count=8&theme=gotham&hide_border=true&count_private=true&cache_seconds=1800"
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KvRae&layout=compact&langs_count=8&theme=gotham&hide_border=true&count_private=true&cache_seconds=1800"
-    width="49%"
-  />
-</p>
+<a href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/98fc67b6b626a019282fa01b379c5fc36a71a51050d4f464627fa10f34a5b611/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d56543332332673697a653d343026636f6c6f723d3030463733372663656e7465723d74727565267643656e7465723d747275652677696474683d31303030266c696e65733d536f6369616c5f4163636f756e7473" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=VT323&amp;size=40&amp;color=00F737&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Social_Accounts" style="max-width: 100%;"></a>
