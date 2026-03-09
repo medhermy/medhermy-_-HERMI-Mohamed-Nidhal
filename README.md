@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A58F7&width=435&lines=HERMI+Mohamed+Nidhal)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=1A58F7&width=435&lines=Data+Analyst+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=1A58F7&background=E7FF93&center=true&width=435&lines=Data+Analyst+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=1A58F7&width=435&lines=%7C+Power+BI)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=1A58F7&width=435&lines=%7C+SQL+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=1A58F7&width=435&lines=%7C+Python)](https://git.io/typing-svg)
